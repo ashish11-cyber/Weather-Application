@@ -1,0 +1,12 @@
+# WeatherApp
+
+## Setup
+1. Clone the repository.
+2. Add your API key in `WeatherService.java`.
+3. Set up your database and update the connection details in `DatabaseService.java`.
+4. Run the application.
+
+## Dependencies
+- Apache HttpClient
+- org.json
+- MySQL JDBC Driver
